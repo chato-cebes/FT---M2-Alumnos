@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "zoo": {
+    "species": ["Mamíferos", "Reptiles", "Aves"],
+    "animals": [
+       {
+          "name": "León",
+          "specie": "Mamíferos",
+          "image": "https://wallpapercave.com/wp/o9JlfEK.jpg"
+       },
+       {
+          "name": "Delfín",
+          "specie": "Mamíferos",
+          "image": "https://2.bp.blogspot.com/-fdPXFc0tAs4/T6unUkQsVHI/AAAAAAAAABA/WrMZpfVErGo/s1600/delfin.jpg"
+       },
+       {
+          "name": "Cocodrilo",
+          "specie": "Reptiles",
+          "image": "https://2.bp.blogspot.com/-U9BYYyapyHI/V87dj5PF8hI/AAAAAAAAAY8/OzfrZcP1yt0tCXCMfry5XbvTsm3-HpavwCEw/s400/1464719079046.jpg"
+       },
+       {
+          "name": "Pavo real",
+          "specie": "Aves",
+          "image": "https://4.bp.blogspot.com/--Vi9Bbzud0w/UI9XSez93HI/AAAAAAABNWA/pd-D-UblhCI/w1200-h630-p-k-no-nu/pavo-real-peacock-aves-de-pluma-y-exoticas----s.jpg"
+       },
+       {
+          "name": "Boa constrictor",
+          "specie": "Reptiles",
+          "image": "https://media.sciencephoto.com/image/z7800107/400wm/Z7800107-Boa_constrictor.jpg"
+       }
+    ]
+ }
+}
